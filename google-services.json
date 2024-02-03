@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "266499273756",
+    "firebase_url": "https://my-tracker-v2-73fe9-default-rtdb.firebaseio.com",
+    "project_id": "my-tracker-v2-73fe9",
+    "storage_bucket": "my-tracker-v2-73fe9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266499273756:android:6a39e9505bece7b83f1bd9",
+        "android_client_info": {
+          "package_name": "com.myproject.mytracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4-Y9oh9X08zIoT1ZXvZBSSVR6w8jrnR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
